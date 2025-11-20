@@ -2,7 +2,7 @@
 
 > **"Text should be a visualization of abstract information, not just stored knowledge."**
 
-📄 **[Read the Full Proposal (PDF)](./Jonathan_Monclare_ATM_Proposal.pdf)**  
+📄 **[Read the Full Proposal (PDF)](./ATM_Abstractive_Thinking_Model_Whitepaper.pdf)**  
 *(Click to download the white paper)*
 
 ---
