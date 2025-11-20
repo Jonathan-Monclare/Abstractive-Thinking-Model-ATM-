@@ -18,8 +18,7 @@ The conceptual basis of ATM is built upon philosophical thinking, drawing inspir
 
 ## 📊 Concept Overview
 
-![System Architecture](./assets/architecture.png)
-*(Note: Please ensure the image is uploaded to an 'assets' folder or root directory)*
+![System Architecture](./picture.png)
 
 ATM is not designed to be a standalone model. Instead, it functions as a **foundational layer** (underlying mechanism) for intelligence. It consists of three main components:
 1.  **Base Model**: A model equipped with a neural network.
@@ -65,6 +64,6 @@ I welcome any technical advice or critiques on this architecture.
 This project is currently in the **Conceptual / White Paper** phase. No executable code is provided yet. It serves as a thought experiment regarding the future architecture of AGI.
 
 ## 📬 Contact
-You can reach me via X (Twitter) for discussion: **[@你的推特ID]**
+You can reach me via X (Twitter) for discussion: **@J_monclare**
 
 ---
